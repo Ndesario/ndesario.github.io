@@ -1,4 +1,4 @@
-<!DOCTYPE/>
+<!DOCTYPE html>
 <HTML>
   <head>
     <strong>FARMING</strong>
