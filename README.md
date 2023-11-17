@@ -1,2 +1,2 @@
 # ndesario.github.io
-<strong>some text</strong>****
+<strong>some text</strong>
